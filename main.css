@@ -1,0 +1,38 @@
+
+
+body {
+background: url(seattlepic.jpg);
+background-attachment: fixed;
+}
+
+
+
+.background {
+
+	margin: 6% 6% 6% 6%;
+	background-color: #ffffff;
+	border: 10px solid #03414D;
+	opacity: 0.6;
+
+
+}
+
+.transbox {
+	
+	font-weight: bold;
+	color: #5588A3;
+	
+	margin: auto;
+position: relative;
+    
+    
+}
+
+.block {
+	margin: auto;
+	
+	background-color: #45ADA8;
+	border: 2px solid #004262;
+	
+}
+
